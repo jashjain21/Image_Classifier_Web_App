@@ -19,6 +19,22 @@ location:data(the link for this dataset is as follows: https://www.kaggle.com/pu
 
 4.Integration django with pytorch
 
+## Explanation of our website
+location:ppt_final.pdf
+
 ## Screenshots
-# 1.
+# 1.Home Page
 ![](../main/screenshots/First.png?raw=true)
+
+# 2.Uploading Image Page
+![](../main/screenshots/Second.png?raw=true)
+
+# 3.Results Page
+![](../main/screenshots/Third.jpeg?raw=true)
+
+# 4.Changing Hyperparameters Page
+![](../main/screenshots/Fourth.png?raw=true)
+
+# 5.Plot of newly trained Model Page
+.
+![](../main/screenshots/Five.png?raw=true)
