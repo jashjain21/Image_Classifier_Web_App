@@ -36,5 +36,4 @@ location:ppt_final.pdf
 ![](../main/screenshots/Fourth.png?raw=true)
 
 # 5.Plot of newly trained Model Page
-.
 ![](../main/screenshots/Five.png?raw=true)
