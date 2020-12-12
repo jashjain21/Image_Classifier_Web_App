@@ -21,4 +21,4 @@ location:data(the link for this dataset is as follows: https://www.kaggle.com/pu
 
 ## Screenshots
 # 1.
-![](../master/screenshots/First.png?raw=true)
+![](../main/screenshots/First.png?raw=true)
